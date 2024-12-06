@@ -5,8 +5,11 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ![image](https://github.com/user-attachments/assets/148b2189-8528-4c60-a0e6-f930705f3807)
 
 npm install
+<br>
 npm install @reduxjs/toolkit
+<br>
 npm install react-redux
+<br>
 npm run dev
 
 Currently, two official plugins are available:
